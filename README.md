@@ -23,6 +23,7 @@ App.java    Charmander.java     Squirtle.java  Pikachu.java     Pokemon.java
     for (int i = 0; i < allPokemon.length; i++); //loop through the array
 
     allPokemon [i].eat(); //can call any of the SUPER CLASS MEHTODS
+                          //eat() method is just a place holder currently for testing
 
     }
 
